@@ -1,1 +1,1 @@
-# GetApiGitHubSimple
+# GetSimpleApiGitHub
