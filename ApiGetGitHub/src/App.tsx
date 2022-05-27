@@ -1,7 +1,8 @@
 import { useState } from 'react'
-import logo from './logo.svg'
 
 function App() {
+
+  return <h1>Hi is Strange</h1>
 
 }
 
